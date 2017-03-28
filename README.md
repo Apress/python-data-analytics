@@ -1,4 +1,4 @@
-#Apress Source Code
+# Apress Source Code
 
 This repository accompanies [*Python Data Analytics*](http://www.apress.com/9781484209592) by Fabio Nelli (Apress, 2015).
 
@@ -6,10 +6,10 @@ This repository accompanies [*Python Data Analytics*](http://www.apress.com/9781
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
-##Releases
+## Releases
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
 
-##Contributions
+## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
